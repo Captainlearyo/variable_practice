@@ -15,3 +15,7 @@ bool = true
 bool2 = false
 
 name = "steve"
+
+puts "Dear #{name} -- #{color}"
+
+puts "Dear #{thre} -- #{dec}"
