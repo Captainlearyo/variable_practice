@@ -13,3 +13,5 @@ dec2 = 1.5
 bool = true
 
 bool2 = false
+
+name = "steve"
