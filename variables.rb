@@ -9,3 +9,7 @@ thre =3
 dec = 1.2
 
 dec2 = 1.5
+
+bool = true
+
+bool2 = false
